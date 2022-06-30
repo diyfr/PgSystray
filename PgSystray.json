@@ -1,0 +1,8 @@
+{
+  "UsedVersion": "14.4",
+  "CheckForUpdates": false,
+  "AutoInstallLatest": false,
+  "Username": "postgres",
+  "Locale": "fr_FR",
+  "Port": 5432
+}

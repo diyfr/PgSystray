@@ -1,0 +1,5 @@
+*.syso
+*.exe
+pgsql
+pgsql-donwloads
+logs
